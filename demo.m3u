@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="big-buck-bunny" tvg-name="Big Buck Bunny" group-title="Demo",Big Buck Bunny (demo)
+#EXTINF:-1 tvg-id="big-buck-bunny" tvg-name="Big Buck Bunny" tvg-logo="https://raw.githubusercontent.com/IlyaBaikou/tellya-public/main/demo-logo.png" group-title="Demo",Big Buck Bunny (demo)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
